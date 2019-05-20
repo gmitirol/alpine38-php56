@@ -7,6 +7,8 @@ As opposed to the PHP 7 images, this one lacks the Memcached extension as it is 
 
 This image can be used as a base for the testing and deployment of PHP applications.
 
+To build the docker image, do not forget to adapt the base image version in `Dockerfile` where necessary.
+
 Included scripts:
 
 | Script                       | Purpose                                                                    |
