@@ -1,5 +1,5 @@
 ARG REGISTRY_PATH=gmitirol
-FROM $REGISTRY_PATH/alpine38:1.2.6
+FROM $REGISTRY_PATH/alpine38:1.2.7
 LABEL maintainer="gmi-edv@i-med.ac.at"
 
 ARG ALPINE_MIRROR_BASE="http://dl-cdn.alpinelinux.org"
