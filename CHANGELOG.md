@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.3.0] - 2020-01-07
+- Update alpine base image
+- Rebuild image for latest PHP and library updates
+- Fix version regex
+
 ## [1.2.2] - 2019-12-17
 - Update alpine base image
 
@@ -37,7 +42,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-04-16
 - Initial release
 
-[Unreleased]:  https://github.com/gmitirol/alpine38/compare/1.2.2...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine38/compare/1.3.0...HEAD
+[1.3.0]: https://github.com/gmitirol/alpine38/compare/1.2.2...1.3.0
 [1.2.2]: https://github.com/gmitirol/alpine38/compare/1.2.1...1.2.2
 [1.2.1]: https://github.com/gmitirol/alpine38/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/gmitirol/alpine38/compare/1.1.5...1.2.0
