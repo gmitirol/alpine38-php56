@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.4.3] - 2020-07-13
+- Update alpine base image
+
 ## [1.4.2] - 2020-06-03
 - Update alpine base image
 - Use new docker repo
@@ -52,7 +55,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-04-16
 - Initial release
 
-[Unreleased]:  https://github.com/gmitirol/alpine38/compare/1.4.2...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine38/compare/1.4.3...HEAD
+[1.4.3]: https://github.com/gmitirol/alpine38/compare/1.4.2...1.4.3
 [1.4.2]: https://github.com/gmitirol/alpine38/compare/1.4.1...1.4.2
 [1.4.1]: https://github.com/gmitirol/alpine38/compare/1.4.0...1.4.1
 [1.4.0]: https://github.com/gmitirol/alpine38/compare/1.3.0...1.4.0
