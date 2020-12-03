@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.4.4] - 2020-12-03
+- Update alpine base image
+- Fix superglobal access in tests
+
 ## [1.4.3] - 2020-07-13
 - Update alpine base image
 
@@ -55,18 +59,19 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-04-16
 - Initial release
 
-[Unreleased]:  https://github.com/gmitirol/alpine38/compare/1.4.3...HEAD
-[1.4.3]: https://github.com/gmitirol/alpine38/compare/1.4.2...1.4.3
-[1.4.2]: https://github.com/gmitirol/alpine38/compare/1.4.1...1.4.2
-[1.4.1]: https://github.com/gmitirol/alpine38/compare/1.4.0...1.4.1
-[1.4.0]: https://github.com/gmitirol/alpine38/compare/1.3.0...1.4.0
-[1.3.0]: https://github.com/gmitirol/alpine38/compare/1.2.2...1.3.0
-[1.2.2]: https://github.com/gmitirol/alpine38/compare/1.2.1...1.2.2
-[1.2.1]: https://github.com/gmitirol/alpine38/compare/1.2.0...1.2.1
-[1.2.0]: https://github.com/gmitirol/alpine38/compare/1.1.5...1.2.0
-[1.1.5]: https://github.com/gmitirol/alpine38/compare/1.1.4...1.1.5
-[1.1.4]: https://github.com/gmitirol/alpine38/compare/1.1.3...1.1.4
-[1.1.3]: https://github.com/gmitirol/alpine38/compare/1.1.2...1.1.3
-[1.1.2]: https://github.com/gmitirol/alpine38/compare/1.1.1...1.1.2
-[1.1.1]: https://github.com/gmitirol/alpine38/compare/1.1.0...1.1.1
-[1.1.0]: https://github.com/gmitirol/alpine38/compare/1.0.0...1.1.0
+[Unreleased]:  https://github.com/gmitirol/alpine38-php56/compare/1.4.4...HEAD
+[1.4.4]: https://github.com/gmitirol/alpine38-php56/compare/1.4.3...1.4.4
+[1.4.3]: https://github.com/gmitirol/alpine38-php56/compare/1.4.2...1.4.3
+[1.4.2]: https://github.com/gmitirol/alpine38-php56/compare/1.4.1...1.4.2
+[1.4.1]: https://github.com/gmitirol/alpine38-php56/compare/1.4.0...1.4.1
+[1.4.0]: https://github.com/gmitirol/alpine38-php56/compare/1.3.0...1.4.0
+[1.3.0]: https://github.com/gmitirol/alpine38-php56/compare/1.2.2...1.3.0
+[1.2.2]: https://github.com/gmitirol/alpine38-php56/compare/1.2.1...1.2.2
+[1.2.1]: https://github.com/gmitirol/alpine38-php56/compare/1.2.0...1.2.1
+[1.2.0]: https://github.com/gmitirol/alpine38-php56/compare/1.1.5...1.2.0
+[1.1.5]: https://github.com/gmitirol/alpine38-php56/compare/1.1.4...1.1.5
+[1.1.4]: https://github.com/gmitirol/alpine38-php56/compare/1.1.3...1.1.4
+[1.1.3]: https://github.com/gmitirol/alpine38-php56/compare/1.1.2...1.1.3
+[1.1.2]: https://github.com/gmitirol/alpine38-php56/compare/1.1.1...1.1.2
+[1.1.1]: https://github.com/gmitirol/alpine38-php56/compare/1.1.0...1.1.1
+[1.1.0]: https://github.com/gmitirol/alpine38-php56/compare/1.0.0...1.1.0
