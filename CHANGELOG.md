@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.4.5] - 2020-12-16
+- Update alpine base image
+- Use tagged versions of docker and dind, use new --all-tags parameter
+
 ## [1.4.4] - 2020-12-03
 - Update alpine base image
 - Fix superglobal access in tests
@@ -59,7 +63,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2019-04-16
 - Initial release
 
-[Unreleased]:  https://github.com/gmitirol/alpine38-php56/compare/1.4.4...HEAD
+[Unreleased]:  https://github.com/gmitirol/alpine38-php56/compare/1.4.5...HEAD
+[1.4.5]: https://github.com/gmitirol/alpine38-php56/compare/1.4.4...1.4.5
 [1.4.4]: https://github.com/gmitirol/alpine38-php56/compare/1.4.3...1.4.4
 [1.4.3]: https://github.com/gmitirol/alpine38-php56/compare/1.4.2...1.4.3
 [1.4.2]: https://github.com/gmitirol/alpine38-php56/compare/1.4.1...1.4.2
